@@ -94,31 +94,7 @@ journalctl -u pipe-pop -f
 
 ---
 
-### **6. Generate Referral Code**
-
-To generate your referral code, use the following command:
-
-```bash
-./pop --gen-referral-route
-```
-
-This will generate a referral code that you can share with new users who wish to sign up using your referral.
-
----
-
-### **7. New Users Sign Up Using Referral**
-
-New nodes can sign up using your referral code by running:
-
-```bash
-./pop --signup-by-referral-route <REFERRAL_CODE>
-```
-
-This allows new users to enter your referral code and join the network under your referral.
-
----
-
-### **8. Check Reputation and Points**
+### **6. Check Reputation and Points**
 
 To check your node's reputation and status, including points from referrals, run:
 
@@ -131,5 +107,17 @@ This will show the breakdown of the node’s reputation metrics and overall scor
 - **Uptime Score** (40%)
 - **Egress Score** (30%)
 - **Historical Score** (30%)
+
+---
+
+### **7. Generate Referral Code**
+
+To generate your referral code, use the following command:
+
+```bash
+./pop --gen-referral-route
+```
+
+This will generate a referral code that you can share with new users who wish to sign up using your referral.
 
 ---
