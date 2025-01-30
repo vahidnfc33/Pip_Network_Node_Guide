@@ -1,5 +1,3 @@
-Here’s an updated version of your **Pipe POP Node Setup Guide** with an attractive and clear structure. I've added emphasis on the instructions for moving the `pop` file after the directory is created and made other improvements for readability:
-
 ---
 
 # **Pipe POP Node Setup Guide**
