@@ -146,7 +146,7 @@ Once generated, you can share this referral code with others who can sign up and
 
 ## **🎉 Congratulations!**
 
-You've successfully set up your **Pipe POP Node** and are now ready to start earning rewards through the referral and reputation systems. Make sure to monitor your node’s performance regularly and stay tuned for additional updates!
+You've successfully set up your **Pipe POP Node** and are now ready to start earning rewards through the referral and reputation systems.
 
 If you have any issues or need further assistance, feel free to reach out to our support team.
 
