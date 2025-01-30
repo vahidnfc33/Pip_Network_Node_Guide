@@ -52,7 +52,7 @@ Now we’ll configure the systemd service to manage the Pipe POP node automatica
         --max-disk <Your server disk max> \
         --cache-dir /root/pipenetwork/download_cache \
         --pubKey <Your Solana Address> \
-        --signup-by-referral-route 65dcec6a1eb60cf9
+        --signup-by-referral-route dmhkLmdvb2
     Restart=always
     RestartSec=5
     LimitNOFILE=65536
