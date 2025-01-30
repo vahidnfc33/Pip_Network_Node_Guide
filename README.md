@@ -54,7 +54,6 @@ cd /root/pipenetwork
     - `--ram <Your RAM size>`: Replace `<Your RAM size>` with the desired RAM allocation in GB (e.g., `8`).
     - `--max-disk <Your server disk max>`: Replace `<Your server disk max>` with the desired disk allocation in GB (e.g., `500`).
     - `--pubKey <Your Solana Address>`: Replace `<Your Solana Address>` with your actual Solana public key.
-    - `--signup-by-referral-route <Your Referral Code>`: Replace `<Your Referral Code>` with your actual referral code (e.g., `65dcec6a1eb60cf9`).
 
 ---
 
